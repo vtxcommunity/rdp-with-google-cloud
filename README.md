@@ -57,5 +57,5 @@ Udah deh jadi
 gampang kan? kalau gak gampang ya siapa tau nanti jadi gampang hehe
 
 
-<h5>© Copyright by VTX Community</h5>
+<h5>© Copyright by VTX Community & MJ</h5>
 
